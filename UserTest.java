@@ -19,8 +19,8 @@ public class UserTest {
 		user.setUserName("ruoxingai");
 		user.setName("Darwin");
 		user.setEncryptedPassword(Security.md5("123"));
-		user.setTell("13524699652");
-		user.setEmail("abc@123");
+		user.setTell("135*******2");
+		user.setEmail("123123");
 		user.setCreateDate(new Date());
 		user.setUpdateDate(new Date());
 
