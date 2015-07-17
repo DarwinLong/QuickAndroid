@@ -16,11 +16,11 @@ public class UserTest {
 		Session session = null;
 
 		User user = new User();
-		user.setUserName("ruoxingai");
+		user.setUserName("xingai");
 		user.setName("Darwin");
 		user.setEncryptedPassword(Security.md5("123"));
-		user.setTell("13524699652");
-		user.setEmail("abc@123");
+		user.setTell("135*******");
+		user.setEmail("123456");
 		user.setCreateDate(new Date());
 		user.setUpdateDate(new Date());
 
